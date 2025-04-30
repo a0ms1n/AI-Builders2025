@@ -8,7 +8,7 @@ This project focuses on building a machine learning model to **detect AI-generat
 - **[@pxsit](https://github.com/pxsit)**  
   For providing incredible prompts, models, and the beginning of an idea project.
 
-- **[@PakinDioxide](https://github.com/PakinDioxide)**  
+- **[@PakinDioxide](https://github.com/PakinDioxide) and [@ttamx](https://github.com/ttamx)**  
   For contributing outstanding C++ source code examples used in training and evaluation.
 
 - **My mentor and TA**  
