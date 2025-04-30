@@ -18,3 +18,6 @@ https://www.kaggle.com/datasets/dinuiongeorge/codeforces-competitive-programming
 
 Codeforces R1 Generated 1:
 https://huggingface.co/datasets/open-r1/codeforces-cots
+
+Codeforces R1 Generated 2:
+https://huggingface.co/datasets/mlfoundations-dev/openr1_codeforces
